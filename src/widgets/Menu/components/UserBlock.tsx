@@ -35,7 +35,7 @@ const UserBlock: React.FC<Props> = ({ account, login, logout }) => {
           onClick={() => {
             onPresentAccountModal();
           }}
-          style={{ backgroundColor: "#ff9100", color: "#030708", height: isMobile ? '42px' : '32px'}}
+          style={{ backgroundColor: "#FFFFFF", color: "#030708", height: isMobile ? '42px' : '32px'}}
         >
           {accountEllipsis}
         </Button>

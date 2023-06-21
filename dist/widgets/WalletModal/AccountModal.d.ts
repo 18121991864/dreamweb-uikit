@@ -1,5 +1,6 @@
 import React from "react";
 interface Props {
+    isMobile: boolean;
     account: string;
     logout: () => void;
     onDismiss?: () => void;
