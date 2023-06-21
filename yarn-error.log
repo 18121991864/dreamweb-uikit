@@ -18,7 +18,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@pixelweb/uikit",
+    "name": "@dreamweb/uikit",
     "version": "0.32.6",
     "description": "Set of UI components for pancake projects",
     "main": "dist/index.cjs.js",
@@ -27,7 +27,7 @@ npm manifest:
     "files": [
       "dist"
     ],
-    "repository": "https://github.com/18121991864/dreamweb-uikit.git",
+    "repository": "https://github.com/DreamFinanceProject/dreamweb-uikit.git",
     "license": "MIT",
     "scripts": {
       "start": "yarn storybook",
